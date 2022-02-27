@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true coppy of a bold and most peremptory letter, sent to the Honourable Earle of Salisbury, / by A. B. C. &amp;c. To mittigate his prosecuting of recusants.</title>
+            <author>A. B. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78328</idno>
+            <idno type="STC">Wing C13</idno>
+            <idno type="STC">Thomason E172_12</idno>
+            <idno type="STC">ESTC R14669</idno>
+            <idno type="EEBO-CITATION">99859715</idno>
+            <idno type="PROQUEST">99859715</idno>
+            <idno type="VID">111811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111811)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true coppy of a bold and most peremptory letter, sent to the Honourable Earle of Salisbury, / by A. B. C. &amp;c. To mittigate his prosecuting of recusants.</title>
+                  <author>A. B. C.</author>
+                  <author>Salisbury, Robert Cecil, Earl of, 1563-1612. Answere to certaine scandalous papers, scattered abroad under colour of a Catholicke admonition.</author>
+               </titleStmt>
+               <extent>[2], 5 [i.e. 4], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, dwelling in Grubstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter, addressed to Robert Cecil, Earl of Salisbury, was originally published in 1606 as part of Salisbury's "An answere to certaine scandalous papers, scattered abroad under colour of a Catholicke admonition".</note>
+                  <note>P. 4 misnumbered 5.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salisbury, Robert Cecil, --  Earl of, 1563-1612.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Gunpowder Plot, 1605 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111811:1" rendition="simple:additions"/>
+            <p>A TRVE COPPY Of a bold and moſt peremptory LETTER, SENT To the Honourable Earle of <hi>Salisbury,</hi> By A. B. C. &amp;c. To mittigate his proſecuting of Recuſants.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, <hi>Printed by B. ALSOP, dwelling in Grubſtreet.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111811:2"/>
+            <pb n="1" facs="tcp:111811:2"/>
+            <head>A true Copy of a Letter, &amp;c<g ref="char:punc">▪</g>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Y LORD,</salute>
+            </opener>
+            <p>Whereas the late unap<g ref="char:EOLhyphen"/>proveable, and moſt wicked deſigne, for the deſtroying of his Majeſty, the Prince and Nobility, with many o<g ref="char:EOLhyphen"/>thers of worth &amp; quality (attempted through the undertaking ſpirits of ſome more fyery and turbulent, then zealous and diſpaſionat <hi>Catholicks</hi>) hath made the generall ſtate of our <hi>Catholick</hi> cauſe ſo ſcandalous in the eye of ſuch, whoſe corrupted Judgments are not able to fan away and ſever the fault of the Profeſſor from the poſseſſion it ſelf; as that who now is found to be of that religion, is perſwaded, at leaſt in mind, to allow (though God knoweth as much abhorring as any <hi>Puritane</hi> whatſoever) the ſaid former moſt inhumane, and barbarous proiect: And whereas ſome of his M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſties Councill, but eſpecially your Lordſhip, as being known to be, as the Philoſopher termeth it, <hi>a primus motor,</hi> in ſuch uncharitable proceedings, are determined
+<pb n="2" facs="tcp:111811:3"/>as it is feared, by taking advantage of ſo fowle a ſcandall, to roote out all memory of <hi>Catholicke</hi> religion, either by ſudden baniſhment, Maſſacre, impriſonment, or ſome ſuch <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>table <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ations, and preſſures; and p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s by decreeing in this next Parliament, ſome more cruell and horrible lawes againſt <hi>Catholicks,</hi> then already are made.</p>
+            <p>In regard of theſe premiſſes, there are ſome good men, who through their earneſt deſire for continuing the <hi>Catholick</hi> religion, and for ſaving of many ſoules, both of this preſent, and of all future poſterity are reſolved to prevent ſo great a miſchiefe, though with a full aſſurance afore<g ref="char:EOLhyphen"/>hand of the loſſe of their deareſt lives; you are therefore hereby to be admoniſhed, that at this preſent there are five, which have ſeverally un<g ref="char:EOLhyphen"/>dertaken your death, and hath vowed the perfor<g ref="char:EOLhyphen"/>mance thereof, by taking already the bleſſed Sa<g ref="char:EOLhyphen"/>crament, if you continue your daily plotting of ſo tragicall Stratagems againſt Recuſants.</p>
+            <p>It is ſo ordered, that no one of theſe five know<g ref="char:EOLhyphen"/>eth who the other foure be, for the better pre<g ref="char:EOLhyphen"/>venting the diſcovery of the reſt, if ſo any one by attempting and not performing, ſhould be ap<g ref="char:EOLhyphen"/>prehended.</p>
+            <p>It is alſo already agreed, who ſhall firſt at<g ref="char:EOLhyphen"/>tempt it by ſhot, and ſo who in order ſhall fel<g ref="char:EOLhyphen"/>low. In accompliſhing of it, there is expected no other then aſſurance of death; yet it will wil<g ref="char:EOLhyphen"/>lingly be embraced for the preventing of thoſe
+<pb n="3" facs="tcp:111811:3"/>generall calamities, which by this your tranſcen<g ref="char:EOLhyphen"/>dent Authority, and grace with his Majeſty<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e threatned unto us all, and indeed the difficulties herein are more eaſily to be digeſted, ſince two of the intended <hi>Attempters,</hi> are in that weake ſtate of body, that they cannot live above three or foure moneths. The other three are ſo diſtreſ<g ref="char:EOLhyphen"/>ſed themſelves and their friends, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as that their preſent griefes (for being onely Recuſants) be much dull all apprehenſion of death? None to be blamed in the true cenſuring of matters, for the undertaking hereof: For wee proteſt before GOD, wee know no other meanes left us in the world, ſince it is manifeſt that you ſerve but as a match, to give fire unto his <hi>Maieſty</hi> (to whom the worſt that we wiſh, is, that he may be as great a Saint in Heaven, as he is a King on Earth) for intending all miſchiefes againſt the poore di<g ref="char:EOLhyphen"/>ſtreſſed <hi>Catholicks.</hi> Thus giving your Lordſhip this charitable admonition; the which may per<g ref="char:EOLhyphen"/>haps be neceſſary hereafter, for ſome others your <hi>Inferiours,</hi> at leaſt in grace and favour, if ſo they runne on their former inhumane and unchriſtian rage againſt us, J ceaſe, putting you in minde, that where once true and ſpirituall reſolution is, there, notwithſtanding all dangers what<g ref="char:EOLhyphen"/>ſoever, the weake may take ſufficient revenge of the great.</p>
+            <closer>
+               <signed>Your Lordſhips well admoniſhing Friends, A. B. C. &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="5" facs="tcp:111811:4"/>
+            <head>POSTSCRIPT.</head>
+            <p>IT may be your Lordſhip will take this, but as ſome forged Letter of ſome Puritanes, thereby to incenſe you more againſt Recuſants. But we proteſt upon Our Salvation it is not ſo, neither can any thing in human likelyhood prevent the effecting thereof, but the change of your courſe toward Recuſants.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111811:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
